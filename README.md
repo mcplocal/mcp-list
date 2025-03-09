@@ -21,15 +21,25 @@
 - 📊 - [Data Visualization](#data-visualization)
 - 🆔 - [Identity](#identity)
 
-<sup><details>
+<details>
 <summary>Legend</summary>
 - <sup>⭐</sup> Official
 - <sup>1️⃣</sup> First variant
 - <sup>2️⃣</sup> Second variant
 - <sup>3️⃣</sup> Third variant
 - <sup>#️⃣</sup> All unofficial
-</details></sup>
+</details>
 
+<sup><details>
+
+<summary>Legend</summary>
+
+- <sup>⭐</sup> Official
+- <sup>1</sup> First variant
+- <sup>2</sup> Second implementation
+- <sup>3</sup> Third implementation
+- <sup>n</sup> All unofficial
+</details></sup>
 
 <br />
 
