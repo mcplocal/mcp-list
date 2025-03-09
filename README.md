@@ -22,7 +22,6 @@
 - 🆔 - [Identity](#identity)
 
 <details>
-  
 <summary>Legend</summary>
   
 - <sup>⭐</sup> Official
