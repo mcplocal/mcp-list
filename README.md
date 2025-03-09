@@ -21,14 +21,14 @@
 - 📊 - [Data Visualization](#data-visualization)
 - 🆔 - [Identity](#identity)
 
-<details>
+<sup><details>
 <summary>Legend</summary>
 - <sup>⭐</sup> Official
 - <sup>1️⃣</sup> First variant
 - <sup>2️⃣</sup> Second variant
 - <sup>3️⃣</sup> Third variant
 - <sup>#️⃣</sup> All unofficial
-</details>
+</details></sup>
 
 
 <br />
