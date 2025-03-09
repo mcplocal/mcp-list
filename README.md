@@ -21,7 +21,8 @@
 - 📊 - [Data Visualization](#data-visualization)
 - 🆔 - [Identity](#identity)
 
-<details><summary>Legend</summary>
+<details>
+<summary>Legend</summary>
 - <sup>⭐</sup> Official
 - <sup>1️⃣</sup> First variant
 - <sup>2️⃣</sup> Second variant
