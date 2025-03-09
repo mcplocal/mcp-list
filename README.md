@@ -22,7 +22,9 @@
 - 🆔 - [Identity](#identity)
 
 <details>
+  
 <summary>Legend</summary>
+  
 - <sup>⭐</sup> Official
 - <sup>1️⃣</sup> First variant
 - <sup>2️⃣</sup> Second variant
@@ -30,16 +32,6 @@
 - <sup>#️⃣</sup> All unofficial
 </details>
 
-<sup><details>
-
-<summary>Legend</summary>
-
-- <sup>⭐</sup> Official
-- <sup>1</sup> First variant
-- <sup>2</sup> Second implementation
-- <sup>3</sup> Third implementation
-- <sup>n</sup> All unofficial
-</details></sup>
 
 <br />
 
