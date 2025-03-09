@@ -1,4 +1,4 @@
-## Server Implementations
+# Server Implementations
 
 - 📂 - [File Systems](#file-systems)
 - 🔄 - [Version Control](#version-control)
@@ -31,12 +31,6 @@
 - <sup>3</sup> Third implementation
 - <sup>n</sup> Subsequent implementations
 </details></sup>
-
-<br />
-
-## Tools & Utilities
-
-See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to help manage, configure, and work with MCP servers.
 
 <br />
 
