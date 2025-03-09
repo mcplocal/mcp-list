@@ -22,7 +22,7 @@
 - 🆔 - [Identity](#identity)
 
 <details><summary>Legend</summary>
-- <sup>⭐</sup> Official protocol implementation
+- <sup>⭐</sup> Official
 - <sup>1️⃣</sup> First variant (when multiple exist)
 - <sup>2️⃣</sup> Second variant
 - <sup>3️⃣</sup> Third variant
