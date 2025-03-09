@@ -21,7 +21,7 @@
 - 📊 - [Data Visualization](#data-visualization)
 - 🆔 - [Identity](#identity)
 
-<sup><details><summary>Legend</summary>
+<details><summary>Legend</summary>
 
 - <sup>⭐</sup> Official protocol implementation
 - <sup>1</sup> First implementation (when multiple implementations exist)
@@ -29,7 +29,7 @@
 - <sup>3</sup> Third implementation
 - <sup>n</sup> Subsequent implementations
 </details>
-</sup>
+
 
 <br />
 
