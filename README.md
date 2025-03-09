@@ -34,7 +34,7 @@
 
 <br />
 
-## 📂 <a name="file-systems"></a>File Systems
+## 📂 <a name="file-systems">File Systems</a>
 
 > Provides direct access to local file systems with configurable permissions. Enables AI models to read, write, and manage files within specified directories.
 
@@ -45,7 +45,7 @@
 
 <br />
 
-## 🔄 <a name="version-control"></a>Version Control
+## 🔄 <a name="version-control">Version Control</a>
 
 > Interact with Git repositories and version control platforms. Enables repository management, code analysis, pull request handling, issue tracking, and other version control operations through standardized APIs.
 
@@ -56,7 +56,7 @@
 
 <br />
 
-## ☁ <a name="cloud-storage"></a>Cloud Storage
+## ☁ <a name="cloud-storage">Cloud Storage</a>
 
 > Access and manage files stored in cloud storage platforms. Enables searching, reading, and organizing cloud-stored documents and data.
 
@@ -64,7 +64,7 @@
 
 <br />
 
-## 🗄️ <a name="databases"></a>Databases
+## 🗄️ <a name="databases">Databases</a>
 
 > Secure database access with schema inspection capabilities. Enables querying and analyzing data while maintaining read-only safety by default.
 
