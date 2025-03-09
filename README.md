@@ -21,16 +21,15 @@
 - 📊 - [Data Visualization](#data-visualization)
 - 🆔 - [Identity](#identity)
 
-<sup><details>
-
-<summary>Legend</summary>
+<sup><details><summary>Legend</summary>
 
 - <sup>⭐</sup> Official protocol implementation
 - <sup>1</sup> First implementation (when multiple implementations exist)
 - <sup>2</sup> Second implementation
 - <sup>3</sup> Third implementation
 - <sup>n</sup> Subsequent implementations
-</details></sup>
+</details>
+</sup>
 
 <br />
 
@@ -84,7 +83,7 @@
 
 <br />
 
-## 💬 <a name="communication"></a>Communication
+## 💬 <a name="communication">Communication</a>
 
 > Integration with communication platforms for message management and channel operations. Enables AI models to interact with team communication tools.
 
@@ -94,7 +93,7 @@
 
 <br />
 
-## 📈 <a name="monitoring"></a>Monitoring
+## 📈 <a name="monitoring">Monitoring</a>
 
 > Access and analyze application monitoring data. Enables AI models to review error reports and performance metrics.
 
@@ -104,7 +103,7 @@
 
 <br />
 
-## 🔍 <a name="search-web"></a>Search & Web
+## 🔍 <a name="search-web">Search & Web</a>
 
 > Web content access and automation capabilities. Enables searching, scraping, and processing web content in AI-friendly formats.
 
@@ -122,7 +121,7 @@
 
 <br />
 
-## 🗺️ <a name="location-services"></a>Location Services
+## 🗺️ <a name="location-services">Location Services</a>
 
 > Geographic and location-based services integration. Enables access to mapping data, directions, and place information.
 
@@ -130,7 +129,7 @@
 
 <br />
 
-## 🎯 <a name="marketing"></a>Marketing
+## 🎯 <a name="marketing">Marketing</a>
 
 > Tools that help marketers write better content and run better campaigns.
 
@@ -138,7 +137,7 @@
 
 <br />
 
-## 📝 <a name="note-taking"></a>Note Taking
+## 📝 <a name="note-taking">Note Taking</a>
 
 > Integration with note-taking applications and personal knowledge management tools. Enables access to notes, documents, and personal information stores.
 
@@ -151,7 +150,7 @@
 
 <br />
 
-## ⚡ <a name="cloud-platforms"></a>Cloud Platforms
+## ⚡ <a name="cloud-platforms">Cloud Platforms</a>
 
 > Cloud platform service integration. Enables management and interaction with cloud infrastructure and services.
 
@@ -161,7 +160,7 @@
 
 <br />
 
-## 🤖 <a name="system-automation"></a>System Automation
+## 🤖 <a name="system-automation">System Automation</a>
 
 > Tools for shell access, system control, and task automation. Enables AI models to execute commands and interact with the operating system.
 
@@ -172,7 +171,7 @@
 
 <br />
 
-## 📱 <a name="social-media"></a>Social Media
+## 📱 <a name="social-media">Social Media</a>
 
 > Integration with social media platforms and content sharing services. Enables interaction with social networks and content platforms.
 
@@ -183,7 +182,7 @@
 
 <br />
 
-## 💹 <a name="finance"></a>Finance
+## 💹 <a name="finance">Finance</a>
 
 > Financial data and cryptocurrency information services.
 
@@ -192,7 +191,7 @@
 
 <br />
 
-## 🧬 <a name="research-data"></a>Research & Data
+## 🧬 <a name="research-data">Research & Data</a>
 
 > Access to research papers, genetic data, and specialized datasets.
 
@@ -201,7 +200,7 @@
 
 <br />
 
-## 🤝 <a name="ai-services"></a>AI Services
+## 🤝 <a name="ai-services">AI Services</a>
 
 > Integration with AI and machine learning services.
 
@@ -214,7 +213,7 @@
 - <img src="https://www.chronulus.com/favicon/chronulus-logo-blue-on-alpha-square-128x128.ico" alt="Chronulus AI Logo" height="14" width="14"> [Chronulus AI](https://github.com/ChronulusAI/chronulus-mcp) -  Predict anything with Chronulus AI multimodal forecasting and prediction agents ([Watch Demos on Youtube](https://youtube.com/playlist?list=PLPLu09ZbT8KKS04V6SSm2Acjv43FKq329&si=n2YER2in4gOqwssY)).
 <br />
 
-## 📦 <a name="virtualization"></a>Virtualization
+## 📦 <a name="virtualization">Virtualization</a>
 
 > Secure sandbox environments for code execution and testing. Enables safe execution of code snippets and development workflows.
 
@@ -223,7 +222,7 @@
 
 <br />
 
-## 💻 <a name="development-tools"></a>Development Tools
+## 💻 <a name="development-tools">Development Tools</a>
 
 > Tools and servers that assist with software development workflows. Enables integration with development-related services and APIs.
 
@@ -234,7 +233,7 @@
 
 <br />
 
-## 📊 <a name="data-visualization"></a>Data Visualization
+## 📊 <a name="data-visualization">Data Visualization</a>
 
 > Tools for creating and managing data visualizations. Enables generation of charts, graphs, and other visual representations of data.
 
@@ -242,7 +241,7 @@
 
 <br />
 
-## 🆔 <a name="identity"></a>Identity
+## 🆔 <a name="identity">Identity</a>
 
 > Tools for identity and access management. Enables user authentication, authorization.
 
