@@ -23,10 +23,10 @@
 
 <details><summary>Legend</summary>
 - <sup>⭐</sup> Official
-- <sup>1️⃣</sup> First variant (when multiple exist)
+- <sup>1️⃣</sup> First variant
 - <sup>2️⃣</sup> Second variant
 - <sup>3️⃣</sup> Third variant
-- <sup>#️⃣</sup> Subsequent variant
+- <sup>#️⃣</sup> All unofficial
 </details>
 
 
